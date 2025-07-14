@@ -26,7 +26,7 @@ I’m passionate about combining machine learning with multi-omics data to extra
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![GATK](https://img.shields.io/badge/-GATK-3b9f97?style=flat)
-![STAR](https://img.shields.io/badge/-STAR-aligner-444444?style=flat)
+**STAR** – RNA-seq Aligner  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
