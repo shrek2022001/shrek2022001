@@ -9,7 +9,7 @@ I’m passionate about combining machine learning with multi-omics data to extra
 - 🌍 Based in the US 🇺🇸
 - 🧪 Working on scRNA-seq, bulk RNA-seq, ATAC-seq, and haplotype-based association studies
 - 🛠️ See my portfolio at: [My Portfolio](https://ekandeshreya9.wixsite.com/portfolio)
-- 🌱 Currently learning: spatial transcriptomics, federated learning
+- 🌱 Currently learning: spatial transcriptomics, single-cell RNA sequencing
 - 🤝 Open to collaboration on computational biology, ML + genomics projects
 - 🧠 Sharing my learning on [LinkedIn](https://www.linkedin.com/in/shreya-ekande)
 
@@ -28,15 +28,6 @@ I’m passionate about combining machine learning with multi-omics data to extra
 ![GATK](https://img.shields.io/badge/-GATK-3b9f97?style=flat)
 ![STAR](https://img.shields.io/badge/-STAR-aligner-444444?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyaEkande&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaEkande&theme=github-dark" />
-</p>
 
 ---
 
