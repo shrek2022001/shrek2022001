@@ -33,7 +33,7 @@ I’m passionate about combining machine learning with multi-omics data to extra
 
 ### 📫 Get in Touch
 
-- 📧 **Email**: shreya.ekande@gmail.com  
+- 📧 **Email**: ekandeshreya9@gmail.com  
 - 🌐 **Website**: [ekandeshreya9.wixsite.com/portfolio](https://ekandeshreya9.wixsite.com/portfolio)
 
 _Thanks for stopping by! ⭐ If you like what I do, let's connect!_
