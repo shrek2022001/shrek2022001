@@ -6,9 +6,9 @@ I’m passionate about combining machine learning with multi-omics data to extra
 
 ---
 
-- 🌍 Based in the US 🇺🇸
+- 🌍 Based in the US
 - 🧪 Working on scRNA-seq, bulk RNA-seq, ATAC-seq, and haplotype-based association studies
-- 🛠️ See my portfolio at: [My Portfolio](https://ekandeshreya9.wixsite.com/portfolio)
+- 🛠️ Check out my portfolio at: [My Portfolio](https://ekandeshreya9.wixsite.com/portfolio)
 - 🌱 Currently learning: spatial transcriptomics, single-cell RNA sequencing
 - 🤝 Open to collaboration on computational biology, ML + genomics projects
 - 🧠 Sharing my learning on [LinkedIn](https://www.linkedin.com/in/shreya-ekande)
